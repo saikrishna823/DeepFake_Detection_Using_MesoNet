@@ -29,7 +29,7 @@ This project implements deepfake detection using MesoNet, a convolutional neural
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your_username/deepfake-detection.git
+   git clone https://github.com/saikrishna823/DeepFake_Detection_Using_MesoNet.git
    ```
 
 2. Create and activate a Python virtual environment:

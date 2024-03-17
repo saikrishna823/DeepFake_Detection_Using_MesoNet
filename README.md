@@ -1,7 +1,6 @@
 
 
 ---
-
 # Deepfake Detection using MesoNet with PyTorch
 
 ## Overview
@@ -9,7 +8,6 @@
 This project implements deepfake detection using MesoNet, a convolutional neural network (CNN) designed specifically for detecting deepfake images. The model is trained on a dataset containing both real and deepfake images and is deployed for real-world deepfake image detection.
 
 ## Features
-
 - Utilizes MesoNet architecture for deepfake image detection.
 - Preprocessing techniques for image dataset preparation.
 - Training and evaluation procedures for model development.
@@ -99,5 +97,5 @@ Contributions are welcome! Please follow the standard GitHub workflow:
 
 ## Contact
 
-For inquiries or support, please contact [your_email@example.com](mailto:saikrishnareddymule200@gmail.com).
+For inquiries or support, please contact:saikrishnareddymule200@gmail.com.
 
